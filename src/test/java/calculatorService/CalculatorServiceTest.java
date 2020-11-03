@@ -8,7 +8,7 @@ import calculator.Calculator;
 import calculator.model.CalculationModel;
 import calculator.model.CalculationType;
 
-class CalculatorServiceTest {
+public class CalculatorServiceTest {
 
 	Calculator calculator = new Calculator();
 	// Calculator IS CALLED BY CalculatorService
